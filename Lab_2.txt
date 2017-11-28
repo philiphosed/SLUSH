@@ -1,0 +1,12 @@
+David Philiphose
+9/22/17
+Lab2
+
+
+Describe any known bugs or ways that your submission deviates from the above specification.
+
+	Used functions for fork(), exec(), and for piping rather than writing in main()
+	Didn't check for stray '(' in the middle of the input, only either end. Unknown to deal with Control-C and Control-D
+
+
+No extra credit exercises
